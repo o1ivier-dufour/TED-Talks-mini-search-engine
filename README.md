@@ -1,7 +1,8 @@
 # TED-Talks-mini-search-engine
 
-**Note**
+::: tip Note
 This code, here in the form of a notebook, is the result of a practical work session during my first year of Master. The instructions for this work were given to us by our professor [Sebastien Ferré(IRISA)](http://people.irisa.fr/Sebastien.Ferre/). The code was written in duo by [Niklas Barth](https://www.linkedin.com/in/niklasbarth/) and me.
+:::
 
 This basic search engine quickly returns a list of URLs of TED talks, whose subject tries to match as closely as possible what the user has typed in.
 
